@@ -12,9 +12,12 @@ Na imagem está um exemplo de real de um nó.
 <br/>
 O segundo passo consistiu na criação de um script de criação de uma base de dados com dados relativos a 10 filmes.
 <br/>
+
 <br/>
+
 QUERYS Para verificar informação
 <br/>
+
 Query para ver os directores por filme
 
 MATCH (d:Director)-[:DIRECTED]->(m:Movie)
